@@ -1,3 +1,5 @@
 cancelamentos.csv filter=lfs diff=lfs merge=lfs -text
 cancelamentos_sample.csv filter=lfs diff=lfs merge=lfs -text
 inicial.ipynb filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
